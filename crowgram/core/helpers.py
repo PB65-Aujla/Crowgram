@@ -6,7 +6,7 @@ categories_menu = [
         Button.inline("🎧 Music", b'music')
     ],
     [
-        Button.url("💬 Crowgram Chat", url="https://t.me/crowgramchat")
+        Button.url("💬 Crowgram Chat", url="https://t.me/The_ChatGroup")
     ]
 ]
 
